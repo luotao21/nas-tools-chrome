@@ -57,7 +57,7 @@ nas-tools-chrome/
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/linyuan0213/nas-tools-chrome.git
+git clone https://github.com/luotao21/nas-tools-chrome.git
 cd nas-tools-chrome
 ```
 
